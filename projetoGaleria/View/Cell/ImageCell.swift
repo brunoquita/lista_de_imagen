@@ -10,4 +10,7 @@ import UIKit
 class ImageCell: UICollectionViewCell {
     
     @IBOutlet weak var imageCell: UIImageView!
+    func display(image: UIImage?) {
+        imageCell.image = image
+    }
 }
