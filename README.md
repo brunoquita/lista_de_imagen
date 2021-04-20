@@ -25,14 +25,7 @@ Foi utilizado as seguintes tecnologias:
 
 
 
-## 🔧 Building
 
-
-
-## 🚦 Testes
-
-
-```
 
 
 
